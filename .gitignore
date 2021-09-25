@@ -1,0 +1,8 @@
+# ignore files
+.DS_Store
+.env
+
+# ignore folders
+.ipynb_checkpoints
+__pycache__
+downloads
