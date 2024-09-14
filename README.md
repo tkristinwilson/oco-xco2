@@ -1,7 +1,8 @@
 # OCO XCO2
 OCO XCO2 downloads and visualises XCO2 data from NASA's Orbiting Carbon Observatory 2 ([OCO-2](https://www.nasa.gov/mission_pages/oco2/index.html)) satellite.
 
-![OCO-2](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/oco2.jpg?itok=pRGuPey1)
+![OCO-2](https://upload.wikimedia.org/wikipedia/commons/3/34/Orbiting_Carbon_Observatory-2_artist_rendering_%28PIA18374%29.jpg)
+
 
 ## Area of study
 OCO-2 XCO2 data is processed for New Zealand during 2019.
